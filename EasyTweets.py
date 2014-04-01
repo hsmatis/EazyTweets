@@ -31,7 +31,7 @@ api = TwitterAPI(
 #api = TwitterAPI(o.consumer_key, o.consumer_secret, auth_type="oAuth2")
 
 
-TEST_NUMBER = 1
+TEST_NUMBER = 2
 
 
 try:
